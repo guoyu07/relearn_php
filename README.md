@@ -10,4 +10,4 @@ This repo is about php language learning
   This is a new start for me
 
 ## TODO
-[TODO](https://github.com/huliuqing/relearn_php/edit/master/todo.md)
+[TODO](https://github.com/huliuqing/relearn_php/blob/master/todo.md)
